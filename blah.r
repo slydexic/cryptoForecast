@@ -1,0 +1,6 @@
+print("Loading Packages...")
+library(dplyr)
+library(tidyr)
+library(readr)
+library(ggplot2)
+print("Packages loaded!")
